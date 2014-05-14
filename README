@@ -1,0 +1,7 @@
+PoolCommand is an android app that serves as a remote user interface for a custom swimming pool automation controller. 
+Initially it's focused on regulating chlorine levels by dispensing sodium hypochlorite. Eventually it will also manage 
+lighting, solar heating, cleaning and whatever else. Connection to the controller is Bluetooth. 
+
+The automation controller is based on an mbed microcontroller. The controller code is maintained in an mbed repository 
+located at:
+https://mbed.org/users/bw/code/PoolControl/
